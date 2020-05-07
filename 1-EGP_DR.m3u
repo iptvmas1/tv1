@@ -1,0 +1,85 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="INGLES PARA TODOS | HD" tvg-logo="https://www.dishlatino.com/programacion/ingles-para-todos/images/ipt_logo_red.svg" tvg-name="LATINO: INGLES PARA TODOS | HD"  group-title="Class of english",LATINO: INGLES PARA TODOS | HD
+http://thenew.tv:8000/81240416/28310654/96477
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/5IfLW1t4sjw/maxresdefault.jpg" tvg-name="TVCOTUI"  group-title="DO",TVCOTUI
+http://ramgolive.ddns.net:1935/tvcotui/tvcotui/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CadenaDeNoticias37.do" tvg-logo="https://static.epg.best/do/CadenaDeNoticias37.do.png" tvg-name="Cadena de Noticias 37 DO"  group-title="DO",Cadena de Noticias 37 DO
+https://rctvhdstream.com:8081/rctvhdcanal37hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TeleAntillas.do" tvg-logo="https://static.epg.best/do/TeleAntillas.do.png" tvg-name="Tele Antillas DO"  group-title="DO",Tele Antillas DO
+http://ss1.domint.net:2126/ta2_str/teleantillas/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Certv.do	" tvg-logo="https://static.epg.best/do/Certv.do.png" tvg-name="Certv DO	"  group-title="DO",Certv DO	
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+
+#EXTINF:-1, tvg-id="Telemicro.do" tvg-logo="https://static.epg.best/do/Telemicro.do.png" tvg-name="Telemicro DO"  group-title="DO",Telemicro DO
+https://rctvhdstream.com:8081/rctvhdcanal5hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Telemicro.do" tvg-logo="https://static.epg.best/do/Telemicro.do.png" tvg-name="Telemicro DO"  group-title="DO",Telemicro DO
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+
+#EXTINF:-1, tvg-id="AntenaLatina.do" tvg-logo="https://static.epg.best/do/AntenaLatina.do.png" tvg-name="Antena Latina DO"  group-title="DO",Antena Latina DO
+https://rctvhdstream.com:8081/rctvhdcanal7sd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ColorVision.do" tvg-logo="https://static.epg.best/do/ColorVision.do.png" tvg-name="Color Vision DO"  group-title="DO",Color Vision DO
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/master.m3u8
+
+#EXTINF:-1, tvg-id="ColorVision.do" tvg-logo="https://static.epg.best/do/ColorVision.do.png" tvg-name="Color Vision DO"  group-title="DO",Color Vision DO
+https://rctvhdstream.com:8081/rctvhdcanal9hd2/index.m3u8
+
+#EXTINF:	, tvg-id="ColorVision.do" tvg-logo="https://static.epg.best/do/ColorVision.do.png" tvg-name="Color Vision DO"  group-title="DO",Color Vision DO
+https://rctvhdstream.com:8081/rctvhdcanal9hd3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="https://epg.best/available-channels?term=" tvg-logo="Logo N/A" tvg-name="MicroVision"  group-title="DO",MicroVision
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Telesistema.do" tvg-logo="https://static.epg.best/do/Telesistema.do.png" tvg-name="Telesistema DO"  group-title="DO",Telesistema DO
+https://ss3.domint.net:3114/t11_str/telesistema/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TeleCentro.do" tvg-logo="https://static.epg.best/do/TeleCentro.do.png" tvg-name="Tele Centro DO"  group-title="DO",Tele Centro DO
+http://hd.telemicro.com.do/3c13.m3u8
+
+#EXTINF:-1, tvg-id="Teleunion.do" tvg-logo="https://static.epg.best/do/Teleunion.do.png" tvg-name="Tele Union DO"  group-title="DO",Tele Union DO
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF: 69 (Philadelphia), tvg-id="TelemundoLatinAmerica.pa" tvg-logo="https://static.epg.best/pa/TelemundoLatinAmerica.pa.png" tvg-name="Telemundo Lat.Am. PA"  group-title="US",Telemundo Lat.Am. PA
+http://thenew.tv:8000/81240416/28310654/96574
+
+#EXTINF:47 (NEW YORK) |, tvg-id="TelemundoKVEA.us" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" tvg-name="Telemundo 52 L.A. US"  group-title="US",Telemundo 52 L.A. US
+http://thenew.tv:8000/81240416/28310654/96570
+
+#EXTINF:19 (Connecticut) | HD, tvg-id="TelemundoKVEA.us" tvg-logo="https://static.epg.best/us/Telemundo51WSCV.us.png" tvg-name="Telemundo 51 US"  group-title="US",Telemundo 51 US
+http://thenew.tv:8000/81240416/28310654/96578
+
+#EXTINF:-1, tvg-id="TelemundoWKAQ.us" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" tvg-name="Telemundo US"  group-title="US",Telemundo US
+http://thenew.tv:8000/81240416/28310654/1051
+
+#EXTINF:-1, tvg-id="Univision.us" tvg-logo="https://static.epg.best/us/Univision.us.png" tvg-name="Univision US"  group-title="US",Univision US
+http://thenew.tv:8000/81240416/28310654/96614
+
+#EXTINF:-1, tvg-id="UniMas.us" tvg-logo="https://static.epg.best/us/UniMas.us.png" tvg-name="UniMás US"  group-title="US",UniMás US
+http://thenew.tv:8000/81240416/28310654/96607
+
+#EXTINF:-1, tvg-id="SRF1.ch" tvg-logo="https://lut.im/LXJpuDO5hK/OM3ZjtxQt9O21hAo.png" tvg-name="SRF 1 HD"  group-title="DE",SRF 1 HD
+http://xxxxxxxxx.xxxxx.net:8000/live/xxxxxx/53s7Fedzad/xxxx.ts
+
+#EXTINF:-1, tvg-id="SRF2.ch" tvg-logo="https://lut.im/UyNtCWxYqt/2oDTna1FgStj17Yz.png" tvg-name="SRF 2 HD"  group-title="DE",SRF 2 HD
+http://xxxxxxxxx.xxxxx.net:8000/live/xxxxxx/53s7Fedzad/xxxx.ts
+
+#EXTINF:-1, tvg-id="SRFinfo.ch" tvg-logo="https://lut.im/1m7YZq1iDS/StzZy97pEMpTvEHZ.png" tvg-name="SRF Info HD"  group-title="DE",SRF Info HD
+http://xxxxxxxxx.xxxxx.net:8000/live/xxxxxx/53s7Fedzad/xxxx.ts
+
+#EXTINF:-1, tvg-id="Digital15.do	" tvg-logo="https://static.epg.best/do/Digital15.do.png" tvg-name="Digital 15 DO"  group-title="DO",Digital 15 DO
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="CDNSportsMax.do" tvg-logo="https://static.epg.best/do/CDNSportsMax.do.png" tvg-name="CDN Sports Max DO"  group-title="DO",CDN Sports Max DO
+https://rctvhdstream.com:8081/rctvhdcanal37smhd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="24/7: Duck Tales" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51FK1HTE6VL._AC_SY445_.jpg" tvg-name="24/7: Duck Tales"  group-title="24/7",24/7: Duck Tales
+http://thenew.tv:8000/81240416/28310654/105750
+
+#EXTINF:0,ENG_MOVIE:The Good The Bad And The Ugly_1966 tvg-https://images-na.ssl-images-amazon.com/images/I/81keqIN-tlL._SL1500_.jpg
+https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4
