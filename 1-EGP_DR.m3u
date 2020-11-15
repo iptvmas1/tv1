@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:0, >> peliculas_Dom-REP-24-hora
+https://raw.githubusercontent.com/iptvmas1/tv1/master/24pelird.m3u8
 
 #EXTINF:-1, tvg-id="INGLES PARA TODOS | HD" tvg-logo="https://www.dishlatino.com/programacion/ingles-para-todos/images/ipt_logo_red.svg" tvg-name="LATINO: INGLES PARA TODOS | HD"  group-title="Class of english",LATINO: INGLES PARA TODOS | HD
 http://thenew.tv:8000/81240416/28310654/96477
